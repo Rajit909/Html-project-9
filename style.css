@@ -380,17 +380,14 @@ input{
   .footer-right .logos-list{
     margin-left: 112px;
   }
-  
- 
 }
-
-@media screen and (max-width:600px){
+@media screen and (max-width:750px){
   .logo{
     width: 13%;
     margin-top: 30px;
   }
   .nav-item{
-    margin-right: 10px;
+    display: none;
   }
   .header-image{
     width: 350px;
